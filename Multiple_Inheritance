@@ -1,0 +1,12 @@
+public class STUDENTS extends student {
+
+  
+    public static void main(String[] args) {
+        // TODO code application logic here
+        STUDENTS obj = new STUDENTS();
+        obj.read();
+        obj.gain();
+        
+    }
+    
+}
