@@ -1,0 +1,14 @@
+public class Sheep extends Animal {
+
+    public void eat() {
+        System.out.println("Sheep can eat");
+    }
+
+    
+    public static void main(String[] args) {
+        // TODO code application logic here
+        Sheep s = new Sheep();
+        s.sleep();
+        s.eat();
+    }
+}
