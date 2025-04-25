@@ -1,0 +1,8 @@
+public class student {
+    public void read(){
+        System.out.println("I read the slides");
+    }
+    public void gain() {
+        System.out.println("I gained facts from the lecturer");
+    }
+}
